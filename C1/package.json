@@ -1,0 +1,11 @@
+{
+  "name": "app-teste-c1",
+  "version": "1.0.0",
+  "description": "testes do capitulo 1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "emarques",
+  "license": "MIT"
+}
